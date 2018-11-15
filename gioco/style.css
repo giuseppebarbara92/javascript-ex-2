@@ -6,13 +6,13 @@ font-family: helvetica;
 }
 
 body{
-background: lightgrey;
+background-image: url("https://www.fifa55bonus.com/wp-content/uploads/2018/01/%E0%B8%9E%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%AE%E0%B9%82%E0%B8%A5.jpg");
+background-size: cover;
 }
 
 .wrapper{
   width: 100vw;
   height: 100vh;
-  background: red;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
